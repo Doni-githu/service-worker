@@ -11,7 +11,6 @@ window.addEventListener('load', async () => {
         }
     }
 
-    await loadPosts()
 })
 
 async function loadPosts() {
